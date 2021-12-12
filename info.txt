@@ -1,0 +1,6 @@
+Git Credentials:
+Username: BFKk4deJPlTYM4utgeaDOQKYG3M8uD
+Password: 536PNk2n
+
+Workers URL: https://worker.bhawneet-domain.workers.dev/
+Pages URL: 
